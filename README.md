@@ -3,7 +3,7 @@
 #### Technical Skills: Spreadsheet, Office, SQL, Python, R, Tableau
 
 ## Education
-- Bachelor, Chemical Eng. (_2016_) | Bach Khoa University | Adelaide University (exchange)
+Bachelor, Chemical Eng. (_2016_) | Bach Khoa University - Adelaide University (exchange)
 
 ## Work Experience
 **Professional Development - Aspiring Data Analyst (_March 2025 - Present_)**
