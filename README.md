@@ -5,7 +5,7 @@
 
 ## Projects
 ### Bellabeat Case Study
-[Github](https://www.mdpi.com/1424-8220/22/8/3048)
+[Github](https://github.com/lamvinam/bellabeat_case_study)
 
 Provide insights into consumer usage patterns that will then help guide Bellabeat's marketing strategy.
 -  Analyze smart device usage data of non-Bellabeat smart devices to answer these questions:
@@ -13,7 +13,7 @@ Provide insights into consumer usage patterns that will then help guide Bellabea
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Bellabeat](/assets/img/bellabeat.png)
 
 
 ## Work Experience
