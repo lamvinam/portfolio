@@ -10,7 +10,9 @@ Analyze smart device usage data of non-Bellabeat users, provide insights into co
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 R was used as the sole tool for the case study.
-***
+
+<br><br>
+
 ## Work Experience
 **Professional Development - Aspiring Data Analyst (_March 2025 - Present_)**
 - Built end-to-end analytics projects
