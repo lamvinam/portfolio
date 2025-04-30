@@ -1,5 +1,5 @@
 # Data Analyst Porfolio
-
+*Update: 30-04-2025*
 #### Technical Skills: Spreadsheet, Office, SQL, Python, R, Tableau
 #### Education: Bachelor, Chemical Eng. (_2016_) | Bach Khoa University - Adelaide University (student exchange program)
 
