@@ -1,9 +1,20 @@
-# Aspiring Data Analyst
+# Data Analyst Porfolio
 
 #### Technical Skills: Spreadsheet, Office, SQL, Python, R, Tableau
+#### Education: Bachelor, Chemical Eng. (_2016_) | Bach Khoa University - Adelaide University (student exchange program)
 
-## Education
-Bachelor, Chemical Eng. (_2016_) | Bach Khoa University - Adelaide University (exchange)
+## Projects
+### Bellabeat Case Study
+[Github](https://www.mdpi.com/1424-8220/22/8/3048)
+
+Provide insights into consumer usage patterns that will then help guide Bellabeat's marketing strategy.
+-  Analyze smart device usage data of non-Bellabeat smart devices to answer these questions:
+1. What are some trends in smart device usage?
+2. How could these trends apply to Bellabeat customers?
+3. How could these trends help influence Bellabeat marketing strategy?
+
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 ## Work Experience
 **Professional Development - Aspiring Data Analyst (_March 2025 - Present_)**
@@ -25,14 +36,4 @@ Bachelor, Chemical Eng. (_2016_) | Bach Khoa University - Adelaide University (e
 
 **Product Samples Managing @ Thanh Phu Packaging (_2016 - 2017_)**
 - Manage physical product samples
-
-## Projects
-### Data Projects
-[Github](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective st
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decodzasd
 
