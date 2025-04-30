@@ -4,7 +4,7 @@
 #### Education: Bachelor, Chemical Eng. (_2016_) | Bach Khoa University - Adelaide University (student exchange program)
 
 ## Projects
-### Google Analytics Capstone Case Study [Github](https://github.com/lamvinam/bellabeat_case_study)
+### Google Analytics Capstone Case Study [[Github repo]](https://github.com/lamvinam/bellabeat_case_study)
 Analyze smart device usage data of non-Bellabeat users, provide insights into consumer usage patterns that will then help guide Bellabeat's marketing strategy.
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
