@@ -10,7 +10,6 @@ Analyze smart device usage data of non-Bellabeat users, provide insights into co
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
-R was used as the sole tool for the case study.
 
 <br><br>
 
