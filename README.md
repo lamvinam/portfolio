@@ -13,8 +13,7 @@ Provide insights into consumer usage patterns that will then help guide Bellabea
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
-![Bellabeat](/assets/img/bellabeat.png)
-
+![Bellabeat_logo](/asset/img/bellabeat.PNG)
 
 ## Work Experience
 **Professional Development - Aspiring Data Analyst (_March 2025 - Present_)**
