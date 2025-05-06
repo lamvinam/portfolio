@@ -39,4 +39,3 @@ This mini visualization project aims to address these key questions:
 
 **Product Samples Managing @ Thanh Phu Packaging (_2016 - 2017_)**
 - Manage physical product samples
-
